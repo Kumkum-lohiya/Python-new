@@ -1,0 +1,5 @@
+set = unordered collection of unique items
+
+two type -
+1 - set(mutable) {'data'}
+2 - frozenset(immutable)

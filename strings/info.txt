@@ -1,0 +1,40 @@
+string and characters
+
+numbers
+a-z A-Z !@#$%
+white space
+" "
+
+single quotes -'Python'
+double - " Python"
+triple -
+'''
+this is a
+multi line
+'''
+
+"""
+this is
+also a
+multiline
+"""
+
+indexing start = 0
++ve,-ve
+a= "python"
+p 0
+y 1
+t 2
+h 3
+o 4
+n 5
+
+p 0
+print(a[0])
+________________________________________
+
+3 characteristics
+
+1- immutable
+2- indexed
+3- iterable

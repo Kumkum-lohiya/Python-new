@@ -1,0 +1,15 @@
+1 - string
+"data" 'data'
+immutable
+
+2 - list
+mutable
+['data','data']
+
+3 - tuple
+immutable
+('data','data')
+
+
+
+
