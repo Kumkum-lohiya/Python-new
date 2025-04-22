@@ -1,0 +1,28 @@
+what are errors ?
+
+a - compile -time errors
+b - runtime errors
+c - logical errors
+
+errors in software - bugs
+removing fixing these errors - debugging
+
+exception ->
+1 - start running
+2 - warning sign
+3 - catch and handle,program crash
+
+exception handling ?
+1 -
+zerodivision
+
+100 line
+10-20 line > error
+organised
+
+-----------
+try except
+try - code error
+except -
+
+finally block -
